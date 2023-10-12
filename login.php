@@ -55,7 +55,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title> Interrogate </title>
+        <title> Learnify </title>
         <link type="text/css" rel="stylesheet" href="css/style.css">
         <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
         <link type="text/css" rel="stylesheet" href="css/material.css">
@@ -66,7 +66,7 @@
         <!-- navigation bar -->
         <a href="index.php">
             <div id="log">
-                <div id="i">i</div><div id="cir">i</div><div id="ntro">nterrogate</div>
+                <div id="i">L</div><div id="cir">i</div><div id="ntro">earnify</div>
             </div>
         </a>
         <ul id="nav-bar">
@@ -94,8 +94,8 @@
         <div id="content">
             <center>
                 <div class="heading">
-                    <h1 class="logo"><div id="i">i</div><div id="cir">i</div><div id="ntro">nterrogate</div></h1>
-                    <p id="tag-line">where questions are themselves the answers</p>
+                    <h1 class="logo"><div id="i">L</div><div id="cir">i</div><div id="ntro">earnify</div></h1>
+                    <p id="tag-line">find your question</p>
                 </div>
                 <form action="<?php echo htmlspecialchars( $_SERVER["PHP_SELF"] ); ?>" method="post" enctype="multipart/form-data">
                     <input name="username" id="user" type="text" title="Username" placeholder="Username" required>
@@ -116,7 +116,7 @@
         
         <!-- Footer -->
         <div id="footer">
-            &copy; 2017 &bull; Interrogate Inc.
+            &copy; 2023 &bull; Learnify Inc.
         </div>
         
         <!-- Sripts -->

@@ -4,7 +4,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title> Interrogate </title>
+        <title> Learnify </title>
         <link type="text/css" rel="stylesheet" href="css/style.css">
         <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
         <link type="text/css" rel="stylesheet" href="css/material.css">
@@ -15,7 +15,7 @@
         <!-- navigation bar -->
         <a href="index.php">
             <div id="log">
-                <div id="i">i</div><div id="cir">i</div><div id="ntro">nterrogate</div>
+                <div id="i">L</div><div id="cir">i</div><div id="ntro">earnify</div>
             </div>
         </a>
         <ul id="nav-bar">
@@ -44,21 +44,14 @@
             <div id="box-1">
                 <div class="heading">
                     <center>
-                    <h1 class="logo"><div id="i">i</div><div id="cir">i</div><div id="ntro">nterrogate</div></h1>
-                    <p id="tag-line">where questions are themselves the answers</p>
+                    <h1 class="logo"><div id="i">L</div><div id="cir">i</div><div id="ntro">earnify</div></h1>
+                    <p id="tag-line">find your question</p>
                     </center>
                 </div>
             </div>
             <div id="box-2">
                 <div id="text">
-                    <h1>Interrogate Inc.</h1>
-                    <p style="line-height: 20px;">
-                        <a href="mailto:interrogateincorporate@gmail.com">interrogateincorporate@gmail.com</a><br>
-                        Contact: +91 (***) ***-****<br>
-                        Site By: <a href=https://shivam010.in>https://shivam010.in</a><br>
-                        Social: <a href="https://github.com/Shivam010">Github@Shivam010</a><br>
-                        License: <a href=http://interrogate.herokuapp.com/LICENSE>MIT</a>
-                    </p>
+                    <h1>Learnify Inc.</h1>
                 </div>
             </div>
             
@@ -66,7 +59,7 @@
     
         <!-- Footer -->
         <div id="footer">
-            &copy; 2017 &bull; Interrogate Inc.
+            &copy; 2023 &bull; Learnify Inc.
         </div>
         
     </body>

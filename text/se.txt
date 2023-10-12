@@ -33,7 +33,7 @@ A. SDLC Models are adopted as per requirements of development process. It may ve
 We can select the best SDLC model if following answers are satisfied -
 
 Is SDLC suitable for selected technology to implement the software ?
-Is SDLC appropriate for client’s requirements and priorities ?
+Is SDLC appropriate for clientï¿½s requirements and priorities ?
 Is SDLC model suitable for size and complexity of the software ?
 Is the SDLC model suitable for type of projects and engineering we do ?
 Is the SDLC appropriate for the geographically co-located or dispersed developers ?
@@ -105,7 +105,7 @@ A. It is a measure to assess how practical and beneficial the software project d
 
 Economic - Resource transportation, cost for training, cost of additional utilities and tools and overall estimation of costs and benefits of the project.
 
-Technical - Is it possible to develop this system ? Assessing suitability of machine(s) and operating system(s) on which software will execute, existing developers’ knowledge and skills, training, utilities or tools for project.
+Technical - Is it possible to develop this system ? Assessing suitability of machine(s) and operating system(s) on which software will execute, existing developersï¿½ knowledge and skills, training, utilities or tools for project.
 
 Operational - Can the organization adjust smoothly to the changes done as per the demand of project ? Is the problem worth solving ?
 

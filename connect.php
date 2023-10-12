@@ -1,8 +1,8 @@
 <?php
     $server = "localhost";
     $user = "root";
-    $password = "dell";
-    $db = "project";
+    $password = "";
+    $db = "learnify";
 
     $conn = mysqli_connect($server,$user,$password,$db);
     if(!$conn){

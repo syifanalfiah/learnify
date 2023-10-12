@@ -2,7 +2,7 @@ What are advantages of DBMS over traditional file based systems?
 Ans: Database management systems were developed to handle the following dif?culties of typical ?le-processing systems supported by conventional operating systems.
 1. Data redundancy and inconsistency
 2. Dif?culty in accessing data
-3.  Data isolation – multiple ?les and formats
+3.  Data isolation ï¿½ multiple ?les and formats
 4. Integrity problems
 5.  Atomicity of updates
 6. Concurrent access by multiple users
