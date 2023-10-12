@@ -6,7 +6,7 @@ Total possible outcomes = 36
 
 Number of outcomes of the experiment that are favorable to the event that a sum of two events is 6
 
-=> Favorable outcomes are: (2, 5), (2, 4), (3, 3), (4, 2) and (5, 1)
+=> Favorable outcomes are: (1, 5), (2, 4), (3, 3), (4, 2) and (5, 1)
 
 Number of favorable outcomes = 5
 
